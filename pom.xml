@@ -88,6 +88,36 @@
             <artifactId>vaadin-testbench-junit5</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.vaadin.jchristophe</groupId>
+            <artifactId>sortable-layout</artifactId>
+            <version>1.1.8</version>
+        </dependency>
+        <dependency>
+            <groupId>org.vaadin.stefan</groupId>
+            <artifactId>html-table</artifactId>
+            <version>1.2.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.vaadin.addons.componentfactory</groupId>
+            <artifactId>vcf-gridlayout</artifactId>
+            <version>1.1.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.vaadin.stefan</groupId>
+            <artifactId>html-table</artifactId>
+            <version>1.2.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.parttio</groupId>
+            <artifactId>tinymce-for-flow</artifactId>
+            <version>4.2.4</version>
+        </dependency>
     </dependencies>
 
     <build>
